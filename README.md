@@ -1,1 +1,1 @@
-A challange to solve 100 leet code problems in ruby :)
+A challenge to solve 100 leet code problems in ruby :)
